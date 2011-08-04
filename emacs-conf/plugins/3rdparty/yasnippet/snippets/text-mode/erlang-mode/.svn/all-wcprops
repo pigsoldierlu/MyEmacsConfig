@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode
+END
+mod
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/mod
+END
+begin
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/begin
+END
+imp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/imp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/compile
+END
+fun
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/fun
+END
+rcv
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/rcv
+END
+rcv.after
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/rcv.after
+END
+ifndef
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/ifndef
+END
+exp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/exp
+END
+if
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/if
+END
+beh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/beh
+END
+def
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/def
+END
+undef
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/undef
+END
+after
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/after
+END
+loop
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/loop
+END
+inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/inc
+END
+rec
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/rec
+END
+case
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/case
+END
+ifdef
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/ifdef
+END
+inc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/inc.lib
+END
+try
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/try
+END

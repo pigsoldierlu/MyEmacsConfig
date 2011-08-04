@@ -1,0 +1,144 @@
+10
+
+dir
+7
+http://myvimemacs.googlecode.com/svn/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode
+http://myvimemacs.googlecode.com/svn
+
+
+
+2010-10-25T10:00:08.161818Z
+2
+zwxyswd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34ca41bf-d6c0-612c-064d-0c1f355a7fbd
+
+emacs-lisp-mode
+dir
+
+f90-mode
+dir
+
+sql-mode
+dir
+
+perl-mode
+dir
+
+html-mode
+dir
+
+email
+file
+
+
+
+
+2011-07-24T08:01:28.000000Z
+971cdd2ef7491a755c683f1e9ee61074
+2010-10-25T10:00:08.161818Z
+2
+zwxyswd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+89
+
+erlang-mode
+dir
+
+rst-mode
+dir
+
+time
+file
+
+
+
+
+2011-07-24T08:01:28.000000Z
+f0b9d06664e171627d8c87ea7a26b7c6
+2010-10-25T10:00:08.161818Z
+2
+zwxyswd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51
+
+latex-mode
+dir
+
+nxml-mode
+dir
+
+python-mode
+dir
+
+ruby-mode
+dir
+
+snippet-mode
+dir
+
+markdown-mode
+dir
+
+scala-mode
+dir
+
+cc-mode
+dir
+
+css-mode
+dir
+

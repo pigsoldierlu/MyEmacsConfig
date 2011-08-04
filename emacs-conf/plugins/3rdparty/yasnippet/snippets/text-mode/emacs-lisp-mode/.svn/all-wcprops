@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode
+END
+defun
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/defun
+END
+file.read-lines
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/file.read-lines
+END
+grabstring
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/grabstring
+END
+grabthing
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/grabthing
+END
+dired.process_marked
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/dired.process_marked
+END
+traverse_dir
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/traverse_dir
+END
+find-replace
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/find-replace
+END
+.read_me
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/.read_me
+END
+word-or-region
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/word-or-region
+END
+file.process
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/emacs/.emacs.d/site-lisp/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/file.process
+END
